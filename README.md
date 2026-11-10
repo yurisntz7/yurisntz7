@@ -1,16 +1,27 @@
-## Hi there 👋
+# Yuri dos Santos Pereira
 
-<!--
-**yurisntz7/yurisntz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software, com interesse em
+desenvolvimento de aplicações, inteligência artificial
+e automação de processos.
 
-Here are some ideas to get you started:
+Utilizo o Visual Studio Code nos meus estudos e projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em desenvolvimento
+
+- **Agendia:** protótipo de aplicativo de agendamento
+  para profissionais e estabelecimentos.
+- **Automação editorial JETIA:** protótipo para apoiar
+  a geração de sumários, capas e a organização editorial.
+- **Viva:** protótipo de aplicativo de atividades físicas,
+  com exercícios, alongamentos e mapas.
+
+## Foco de aprendizado
+
+- Desenvolvimento de software.
+- Inteligência artificial aplicada.
+- Automação de tarefas.
+- Organização e documentação de projetos.
+
+## Contato
+
+[Meu LinkedIn](https://www.linkedin.com/in/yuri-santos-a7301742b/)
